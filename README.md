@@ -1,5 +1,7 @@
 # TaskManager
 
+> Репозиторий: [zhandos717/task-manager](https://github.com/zhandos717/task-manager)
+
 Минималистичный таск-менеджер для macOS с Pomodoro-таймером и облачной синхронизацией.
 
 ## Возможности
